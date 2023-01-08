@@ -4,7 +4,7 @@ This is a classic Portfolio Template made using HTML, CSS.
 Please do Check!!
 
 SiteLink:
-https://portfoliodhruvbisht.netlify.app
+https://dhruvbisht.netlify.app/
 
 Some images
 ![image](https://user-images.githubusercontent.com/106266636/202098497-e5e4b301-dcb3-4d1b-a1af-796979cdfbdc.png)
